@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ays7.github.io/chicken/sitemap.xml
+Sitemap: https://ays7.github.io/sitemap.xml
